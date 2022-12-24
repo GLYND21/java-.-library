@@ -14,7 +14,7 @@ import javax.swing.table.AbstractTableModel;
 import javax.swing.table.DefaultTableModel; 
 /**
  *
- * @author DELL
+ * @author ali
  */
 public class AddMembers extends javax.swing.JFrame {
 
